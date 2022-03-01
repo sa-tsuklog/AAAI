@@ -1,0 +1,27 @@
+{
+	"turnScale":90,
+	"turnDim":7,
+	"pitchScale":45,
+	"pitchDim":7,
+	"accelScale":30,
+	"accelDim":7,
+	"hMin":3000,
+	"hMax":15000,
+	"dOutLimitRatio":0.9,
+	"rangeNormalizer":100000.0,
+	"fgtrVelNormalizer":300.0,
+	"mslVelNormalizer":1200.0,
+	"pastPoints":[],
+	"maxTrackNum":{
+		"Friend":2,
+		"Enemy":2
+	},
+	"maxMissileNum":{
+		"Friend":4,
+		"Enemy":2
+	},
+	"minimumV":150.0,
+	"minimumRecoveryV":180.0,
+	"minimumRecoveryDstV":200.0,
+	"maxSimulShot":4
+}
